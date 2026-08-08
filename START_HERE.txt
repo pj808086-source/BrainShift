@@ -1,0 +1,13 @@
+BRAIN SHIFT v2.0
+This is the Android project.
+
+IMPORTANT:
+After extracting, open the BrainShift folder.
+You MUST see:
+- app (FOLDER)
+- build.gradle
+- settings.gradle
+- README.md
+
+Upload the contents of the BrainShift folder to GitHub.
+Do NOT upload the old HTML/PWA project.
